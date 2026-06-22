@@ -1,3 +1,3 @@
 # self_intro
 
-[▶️ Watch Introduction Video](./introduction.mp4)
+<video src="introduction.mp4" controls width="800"></video>
