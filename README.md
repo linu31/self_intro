@@ -1,3 +1,3 @@
 # self_intro
 
-<video src="introduction.mp4" controls width="800"></video>
+<a href="./introduction.mp4"><img src="thumbnail.png" width="800"></a>
